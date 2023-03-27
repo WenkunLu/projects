@@ -1,0 +1,7 @@
+
+
+
+在UIKit中，用Combine框架和MVVM设计模式来搭建App。
+
+主要使用了UITableViewDiffableDataSource，用Publisher来更新DataSource的snapshot。
+
